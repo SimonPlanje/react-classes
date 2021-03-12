@@ -1,2 +1,2 @@
 # react-classes
-Practicing with react classes components
+Practicing with react class components
